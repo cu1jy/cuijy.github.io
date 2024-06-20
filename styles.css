@@ -124,3 +124,29 @@ body {
 .mode:hover {
     cursor: pointer;
 }
+
+.project-table {
+    float: right;
+}
+
+.project {
+    background: rgb(157, 157, 187);
+    height: 300px;
+    width: 200px;
+}
+
+.project-title {
+    font-weight: bold;
+    display: block;
+}
+
+.project-type {
+    font-style: italic;
+    display: block;
+}
+
+.project-link {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
